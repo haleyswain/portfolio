@@ -25,7 +25,19 @@
    padding-bottom: 20%;
    max-height: 100px;
  }
+ .card {
+   height: 495px;
+ }
 
+  #linkedin {
+    max-width: 50px;
+    max-height: 50px;
+  }
+
+  #github {
+    max-width: 50px;
+    max-height: 50px;
+  }
 
   @keyframes textglow {
     0% {
